@@ -15,5 +15,5 @@ Horiseon, a social solutions services, provides business and market strategies t
 2. CSS
 
 ## Author
-**By** Kunle Thomas
+**By** Kunle Thomas </br>
 **For** Vandy Bootcamp
