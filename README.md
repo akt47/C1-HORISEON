@@ -8,4 +8,4 @@ Horiseon, a social solutions services, provides business and market strategies t
 (https://akt47.github.io/C1-HORISEON/)
 
 ### Web Quick Look
-![challenge 1 quick look](./images/horiseon.png)
+![challenge 1 quick look](./assets/images/Horiseon.png)
