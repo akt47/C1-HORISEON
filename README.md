@@ -7,5 +7,13 @@ Horiseon, a social solutions services, provides business and market strategies t
 
 (https://akt47.github.io/C1-HORISEON/)
 
-### Web Quick Look
+### Preview
 ![challenge 1 quick look](./assets/images/Horiseon.png)
+
+## Language Contributors
+1. HTML
+2. CSS
+
+## Author
+**By** Kunle Thomas
+**For** Vandy Bootcamp
